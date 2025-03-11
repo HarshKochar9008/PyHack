@@ -1,0 +1,59 @@
+2025-03-11 18:41:45,998 - virtual_assistant - INFO - Loaded 3 smart home devices
+2025-03-11 18:41:46,113 - comtypes.client._code_cache - INFO - Could not import comtypes.gen, trying to create it.
+2025-03-11 18:41:46,115 - comtypes.client._code_cache - INFO - Created comtypes.gen directory: 'C:\Users\Harsh Kochar\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-11 18:41:46,115 - comtypes.client._code_cache - INFO - Writing __init__.py file: 'C:\Users\Harsh Kochar\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen\__init__.py'
+2025-03-11 18:41:46,127 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Harsh Kochar\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-11 18:41:46,181 - comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2025-03-11 18:41:46,189 - comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2025-03-11 18:41:46,295 - comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
+2025-03-11 18:41:46,312 - comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2025-03-11 18:41:46,320 - comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2025-03-11 18:41:46,328 - comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+2025-03-11 18:42:08,297 - virtual_assistant - INFO - Detected intent: unknown
+2025-03-11 18:44:31,854 - virtual_assistant - INFO - Loaded 3 smart home devices
+2025-03-11 18:44:32,045 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Harsh Kochar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-03-11 18:44:32,045 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Harsh Kochar\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-11 18:44:45,074 - virtual_assistant - INFO - Detected intent: light_control
+2025-03-11 18:44:45,074 - virtual_assistant - INFO - Intent match groups: ('on', None, 'the')
+2025-03-11 18:44:54,053 - virtual_assistant - INFO - Detected intent: unknown
+2025-03-11 18:46:13,200 - virtual_assistant - INFO - Loaded 3 smart home devices
+2025-03-11 18:46:13,306 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Harsh Kochar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-03-11 18:46:13,306 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Harsh Kochar\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-11 18:46:28,644 - virtual_assistant - INFO - Detected intent: light_control
+2025-03-11 18:46:28,644 - virtual_assistant - INFO - Intent match groups: ('on', None, 'living room')
+2025-03-11 18:46:48,736 - virtual_assistant - INFO - Detected intent: light_control
+2025-03-11 18:46:48,736 - virtual_assistant - INFO - Intent match groups: ('off', 'the ', 'bedroom')
+2025-03-11 18:46:48,738 - virtual_assistant - INFO - Light control: bedroom lights turned off
+2025-03-11 18:46:59,560 - virtual_assistant - INFO - Detected intent: light_control
+2025-03-11 18:46:59,561 - virtual_assistant - INFO - Intent match groups: ('are the kitchen', 'on')
+2025-03-11 18:46:59,561 - virtual_assistant - INFO - Light control: kitchen lights turned on
+2025-03-11 18:47:11,801 - virtual_assistant - INFO - Detected intent: light_status
+2025-03-11 18:47:11,801 - virtual_assistant - INFO - Intent match groups: ('how are', None, 'bedroom')
+2025-03-11 18:47:26,611 - virtual_assistant - INFO - Detected intent: gratitude
+2025-03-11 18:47:26,611 - virtual_assistant - INFO - Intent match groups: ()
+2025-03-11 18:47:55,616 - virtual_assistant - INFO - Loaded 3 smart home devices
+2025-03-11 18:47:55,722 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Harsh Kochar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-03-11 18:47:55,723 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Harsh Kochar\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-11 18:48:09,415 - virtual_assistant - INFO - Detected intent: time_query
+2025-03-11 18:48:09,416 - virtual_assistant - INFO - Intent match groups: ()
+2025-03-11 18:48:21,081 - virtual_assistant - INFO - Detected intent: unknown
+2025-03-11 18:48:42,858 - virtual_assistant - INFO - Detected intent: time_query
+2025-03-11 18:48:42,858 - virtual_assistant - INFO - Intent match groups: ()
+2025-03-11 18:48:53,097 - virtual_assistant - INFO - Detected intent: date_query
+2025-03-11 18:48:53,097 - virtual_assistant - INFO - Intent match groups: ('day', 'today')
+2025-03-11 18:49:05,135 - virtual_assistant - INFO - Detected intent: date_query
+2025-03-11 18:49:05,136 - virtual_assistant - INFO - Intent match groups: ('date', 'today')
+2025-03-11 18:49:19,048 - virtual_assistant - INFO - Detected intent: alarm_control
+2025-03-11 18:49:19,048 - virtual_assistant - INFO - Intent match groups: (' all',)
+2025-03-11 18:49:19,049 - virtual_assistant - INFO - All alarms cleared
+2025-03-11 18:49:35,367 - virtual_assistant - INFO - Detected intent: unknown
+2025-03-11 18:49:47,172 - virtual_assistant - INFO - Detected intent: farewell
+2025-03-11 18:49:47,172 - virtual_assistant - INFO - Intent match groups: ()
+2025-03-11 19:04:45,394 - virtual_assistant - INFO - Loaded 3 smart home devices
+2025-03-11 19:04:45,535 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Harsh Kochar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-03-11 19:04:45,535 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Harsh Kochar\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-11 19:05:02,512 - virtual_assistant - INFO - Detected intent: unknown
+2025-03-11 19:05:34,551 - virtual_assistant - INFO - Detected intent: time_query
+2025-03-11 19:05:34,551 - virtual_assistant - INFO - Intent match groups: ()
+2025-03-11 19:05:44,775 - virtual_assistant - INFO - Detected intent: farewell
+2025-03-11 19:05:44,775 - virtual_assistant - INFO - Intent match groups: ()

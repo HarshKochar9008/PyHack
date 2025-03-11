@@ -1,0 +1,29 @@
+2025-03-11 19:16:35,000 - Assistant - INFO - Loaded 3 smart home devices
+2025-03-11 19:16:35,307 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Harsh Kochar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-03-11 19:16:35,307 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Harsh Kochar\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-11 19:16:50,961 - Assistant - INFO - Detected intent: unknown
+2025-03-11 19:17:03,404 - Assistant - INFO - Detected intent: unknown
+2025-03-11 19:17:44,711 - Assistant - INFO - Detected intent: unknown
+2025-03-11 19:18:22,219 - Assistant - INFO - Detected intent: unknown
+2025-03-11 19:18:38,422 - Assistant - INFO - Detected intent: unknown
+2025-03-11 19:18:51,829 - Assistant - INFO - Detected intent: unknown
+2025-03-11 19:19:10,982 - Assistant - INFO - Detected intent: unknown
+2025-03-11 19:19:22,846 - Assistant - INFO - Detected intent: time_query
+2025-03-11 19:19:22,847 - Assistant - INFO - Intent match groups: ()
+2025-03-11 19:20:03,962 - Assistant - INFO - Detected intent: unknown
+2025-03-11 19:20:26,672 - Assistant - INFO - Detected intent: date_query
+2025-03-11 19:20:26,672 - Assistant - INFO - Intent match groups: ()
+2025-03-11 19:20:46,681 - Assistant - INFO - Detected intent: farewell
+2025-03-11 19:20:46,681 - Assistant - INFO - Intent match groups: ()
+2025-03-11 19:30:03,885 - Assistant - INFO - Loaded 3 smart home devices
+2025-03-11 19:30:04,034 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Harsh Kochar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-03-11 19:30:04,034 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Harsh Kochar\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-11 19:30:17,349 - Assistant - INFO - Detected intent: unknown
+2025-03-11 19:30:56,120 - Assistant - INFO - Detected intent: unknown
+2025-03-11 19:31:19,061 - Assistant - INFO - Detected intent: unknown
+2025-03-11 19:31:26,412 - Assistant - INFO - Loaded 3 smart home devices
+2025-03-11 19:31:26,510 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Harsh Kochar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-03-11 19:31:26,510 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Harsh Kochar\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-03-11 19:31:40,705 - Assistant - INFO - Detected intent: time_query
+2025-03-11 19:31:40,705 - Assistant - INFO - Intent match groups: ()
+2025-03-11 19:31:51,061 - Assistant - INFO - Detected intent: unknown

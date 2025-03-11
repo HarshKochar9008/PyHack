@@ -1,0 +1,25 @@
+{
+  "lights": {
+    "living_room": {
+      "state": "off",
+      "brightness": 100,
+      "color": "white"
+    },
+    "bedroom": {
+      "state": "off",
+      "brightness": 100,
+      "color": "white"
+    },
+    "kitchen": {
+      "state": "on",
+      "brightness": 100,
+      "color": "white"
+    }
+  },
+  "thermostat": {
+    "current_temp": 72,
+    "target_temp": 72,
+    "mode": "off"
+  },
+  "alarms": []
+}
